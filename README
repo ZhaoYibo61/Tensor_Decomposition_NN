@@ -1,0 +1,16 @@
+To install, open terminal and perform the following:
+1. Clone this repo:
+$ git clone https://github.com/Guillermo-/Tensor_Decomposition_NN.git
+
+2. Change working directory, TNN, from where this repo was installed
+$ cd TNN/
+
+3. Run the python setuptools to install 2d convolutional neural network using tucker decomposition
+$ python setup.py install
+
+From then you should be able to import this module in your python interpreter. For example
+$ python
+>>> import layers
+>>> # or import via
+>>> from layers import Conv2dTucker
+>>>

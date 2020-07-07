@@ -1,0 +1,7 @@
+setup.py
+decomp_tucker.egg-info/PKG-INFO
+decomp_tucker.egg-info/SOURCES.txt
+decomp_tucker.egg-info/dependency_links.txt
+decomp_tucker.egg-info/top_level.txt
+layers/Conv2dTucker.py
+layers/__init__.py
